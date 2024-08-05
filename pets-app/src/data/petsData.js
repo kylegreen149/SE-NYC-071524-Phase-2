@@ -28,6 +28,11 @@ const pets = [
         id: 6,
         name: "Fluffy",
         image: "images/guinea-pig.jpeg"
+    },
+    {
+        id: 7,
+        name: "Goldie",
+        image: "images/fish.jpeg"
     }
 ]
 
